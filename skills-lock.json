@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "bubbletea": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mine/bubbletea/SKILL.md",
+      "computedHash": "29b4f13ed08becd07f610c6b308034aed25afcabe267b1d616407b1d7c9fc5df"
+    }
+  }
+}
